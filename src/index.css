@@ -1,0 +1,20 @@
+main {
+  min-height: 80vh;
+  background-color: #eeeeee;
+}
+
+.footer {
+  background-color: #eeeeee;
+}
+
+.h3-home {
+  padding: 1rem 0;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+
+.center {
+  text-align: center;
+}
