@@ -18,3 +18,44 @@ main {
 .center {
   text-align: center;
 }
+
+.container {
+  position: relative;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+.container .onImage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container .onImageText {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  text-shadow: 2px 2px #555;
+}
+
+@media only screen and (max-width: 600px) {
+  .container .onImage {
+    top: 70%;
+  }
+}

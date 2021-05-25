@@ -11,7 +11,7 @@ node_modules/
 
 # files
 /src/checklist
-/src/data.js
+/src/products.js
 
 # production
 /build
