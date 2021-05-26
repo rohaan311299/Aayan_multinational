@@ -2,6 +2,7 @@ import React from 'react';
 import {Carousel, Button, Nav} from "react-bootstrap";
 import {LinkContainer} from "react-router-bootstrap";
 import {Link} from "react-router-dom";
+import About from "./About";
 
 const Home = () => {
     return (
@@ -52,6 +53,8 @@ const Home = () => {
                     </LinkContainer>
                 </Carousel.Item>
                 </Carousel>
+                <div className="pt-5"></div>
+                <About />
         </div>
     )
 }
