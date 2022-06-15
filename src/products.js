@@ -2,7 +2,7 @@ const products = [
   {
     id: '1',
     name: 'General Tablets',
-    image: '/images/image_1.jpg',
+    image: '/images/general_tablets.jpg',
     values:[
       {
       id: "1",
@@ -1424,7 +1424,7 @@ const products = [
   },
   {
     id: '2',
-    image:"./images/image_1.jpg",
+    image:"./images/tablet_2.jpg",
     name: 'Cephalosprin tablets',
     values:[
       {
@@ -1516,7 +1516,7 @@ const products = [
   {
     id: '3',
     name: 'Beta Lactum Tablets',
-    image: '/images/image_1.jpg',
+    image: '/images/tablet_3.jpg',
     values:[
       {
         id:1,
@@ -1571,7 +1571,7 @@ const products = [
   {
     id: '4',
     name: 'Liquid Oral',
-    image: '/images/image_1.jpg',
+    image: '/images/liquid_oral.jpg',
     values:[
       {
       id: "1",
@@ -2010,7 +2010,7 @@ const products = [
   {
     id:'5',
     name:"Multivitamin/Iron/Mineral Suppliments Liquid Orals",
-    image: '/images/image_1.jpg',
+    image: '/images/multivitamin_orals.jpg',
     values:[
       {
         id:1,
@@ -2053,7 +2053,7 @@ const products = [
   {
     id:"6",
     name:"General Capsules",
-    image: '/images/image_1.jpg',
+    image: '/images/capsules.jpg',
     values:[
        {
           id: 1,
@@ -2204,7 +2204,7 @@ const products = [
   {
     id:"7",
     name:"Beta Lactum Capsules",
-    image: '/images/image_1.jpg',
+    image: '/images/capsules_2.jpg',
     values:[
       {
         id:1,
@@ -2253,7 +2253,7 @@ const products = [
   {
     id:"8",
     name:"Cephalosporin Capsules",
-    image: '/images/image_1.jpg',
+    image: '/images/capsules_3.jpg',
     values:[
       {
         id:1,
@@ -2272,7 +2272,7 @@ const products = [
   {
     id:"9",
     name:"General Ointments",
-    image:"/images/image_1.jpg",
+    image:"/images/ointments.jpeg",
     values:[
       {
         id: "1",
@@ -2407,7 +2407,7 @@ const products = [
   {
     id:"10",
     name:"Lotions/ Mouthwash",
-    image:"/images/image_1.jpg",
+    image:"/images/mouthwash.jpg",
     values:[
       {
         id:1,
@@ -2470,7 +2470,7 @@ const products = [
   {
     id:"11",
     name:"Cephalosporing dry injections",
-    image:"/images/image_1.jpg",
+    image:"/images/injections.jpg",
     values:[
       {
         id: "1",
@@ -2597,7 +2597,7 @@ const products = [
   {
     id:"12",
     name:"Beta Lactum dry injections",
-    image:"/images/image_1.jpg",
+    image:"/images/injections_2.jpg",
     values:[
       {
         id: 1,
